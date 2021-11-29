@@ -130,3 +130,6 @@ dmypy.json
 
 cornell/
 .DS_Store
+
+cornell/
+cornell/*
